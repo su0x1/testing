@@ -1,1 +1,1 @@
-localStorage.getItem('user');
+alert(localStorage.getItem('user'));
